@@ -2,6 +2,7 @@ import os
 
 <<<<<<< HEAD
 #main change 1
+#remote change 1
 =======
 #rebase change 1
 <<<<<<< HEAD
