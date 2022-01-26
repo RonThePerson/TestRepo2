@@ -1,10 +1,5 @@
-
-# edited file
-# again
+import os
 
 
-for x in range(7):
-    print(x)
-
-for x in "Eran":
+for x in "String":
     print(x)
