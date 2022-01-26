@@ -1,5 +1,5 @@
 import os
 
 
-for x in "String":
+for x in "Eran":
     print(x)
